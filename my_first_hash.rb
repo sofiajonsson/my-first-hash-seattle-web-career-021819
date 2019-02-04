@@ -45,5 +45,5 @@ shipping manifest["muskets"] = 2
 shipping_manifest["gun powder"] = 2
 
   # return the shipping_manifest hash below
-
+return shipping_manifest
 end
